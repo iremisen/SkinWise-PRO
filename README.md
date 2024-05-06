@@ -31,3 +31,6 @@ This graph illustrates the model's training and validation loss for each epoch. 
 
 # Data
 The datasets used as inputs for this project are a compilation from many different sources. Some of them were handpicked one by one, while others were acquired from the following websites:
+RoboFlow - https://universe.roboflow.com/artificial-future-technology/freckles_detection-dbfq5/dataset/2
+Kaggle - https://www.kaggle.com/datasets/nayanchaure/acne-dataset/data?select=Acne
+Princeton Face Database - https://libguides.princeton.edu/facedatabases
