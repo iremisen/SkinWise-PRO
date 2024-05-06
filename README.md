@@ -28,3 +28,6 @@ This graph shows the accuracy of the model on both the training and validation d
 ![training2](https://github.com/iremisen/SkinWisePRO/assets/94148160/001e134c-24d1-488c-b571-ff7224d253c7)
 
 This graph illustrates the model's training and validation loss for each epoch. The loss quantifies the discrepancy between the model's predictions and the actual data, providing insight into the model's learning progress and its ability to generalize.
+
+# Data
+The datasets used as inputs for this project are a compilation from many different sources. Some of them were handpicked one by one, while others were acquired from the following websites:
