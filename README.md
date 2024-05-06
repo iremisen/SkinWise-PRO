@@ -2,10 +2,10 @@
 Kelsea Austin, Irem Sen, and Prapti Singh
 
 # Introduction
-SkinWise Pro is a machine learning tool developed to address the challenges of diagnosing skin conditions accurately and efficiently. This project uses a Convolutional Neural Networks (CNN) to analyze images and provide diagnoses of various skin diseases. Our objective is to make dermatological care accessible to everyone, regardless of geographical and economic barriers.
+SkinWise-PRO is a machine learning tool developed to address the challenges of diagnosing skin conditions accurately and efficiently. This project uses a Convolutional Neural Networks (CNN) to analyze images and provide diagnoses of various skin diseases. Our objective is to make dermatological care accessible to everyone, regardless of geographical and economic barriers.
 
 # Project Objective
-The main goal of SkinWise PRO is to simplify the process of diagnosing skin diseases by utilizing advanced image processing techniques and machine learning algorithms. We aim to reduce the dependency on in-person dermatological consultations, which can be costly and time-consuming, and create an upgraded online tool that does not rely on the user to classify their symptoms.
+The main goal of SkinWise-PRO is to simplify the process of diagnosing skin diseases by utilizing advanced image processing techniques and machine learning algorithms. We aim to reduce the dependency on in-person dermatological consultations, which can be costly and time-consuming, and create an upgraded online tool that does not rely on the user to classify their symptoms.
 
 # Process
 During our implementation of this project, we initially started off using our custom model, which was a Convolutional Neural Network (CNN). In our original CNN, we decided to analyze these images with a Gabor Layer. The Gabor layer was specifically chosen for its effectiveness in feature extraction from images, particularly in enhancing the visibility of edges, textures, and orientations in the skin images. This layer utilizes Gabor filters, which are designed to capture information at different scales and rotations, making it suitable for analyzing complex skin patterns. 
